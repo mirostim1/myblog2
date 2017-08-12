@@ -1,0 +1,45 @@
+body {
+    background: url('/myblog/images/back.png') white no-repeat;
+}
+.jumbo-image {
+    background: url('/myblog/images/logo.jpg');
+    color: #ffffff;
+}
+.mainlogo {
+    color: white;
+    text-shadow: 3px 3px #202020;
+}
+
+.send-button {
+    margin: 20px 0 25px 0;
+}
+
+.fa-home {
+    color:  dodgerblue;
+}
+
+.fa-book {
+    color:  dodgerblue;
+    padding: 0;
+}
+
+.blue-letters {
+    color: dodgerblue;
+}
+
+.meta.category {
+    padding-bottom: 6px;
+}
+
+.meta.posted-by {
+    padding-bottom: 7px;
+}
+
+.cat-link .a {
+    color: dodgerblue;
+}
+
+.category {
+    padding-top: 20px;
+}
+
